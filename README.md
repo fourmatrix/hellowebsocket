@@ -15,3 +15,7 @@ http://stomp.github.io
 
 
 http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-devtools.html
+
+
