@@ -3,6 +3,13 @@ hello world about websocket with Spring, Sockjs, Stomp
 
 
 
+# setup
+
+run spring boot
+./gradlew  bootRun
+
+continue deploy static resources
+./gradlew -t processResources
 
 
 # References:
